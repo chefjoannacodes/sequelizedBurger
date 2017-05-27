@@ -1,7 +1,7 @@
 # sequelizedBurger
 
-## Live Link (If relevant)
- - www.example.com
+## Live Link 
+ - https://sleepy-thicket-84769.herokuapp.com/
 
 ## Description on how to use the app
 
